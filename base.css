@@ -814,7 +814,7 @@ a {
 }
 
 .list-unit .list-status-title .text {
-    text-shadow: 2px 2px black;
+    text-shadow: 0 0 12px black, 0 0 12px black, 0 0 12px black;
     display: table-cell;
     width: 1024px;
     height: 38px;
