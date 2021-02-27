@@ -811,6 +811,8 @@ a {
     height: 38px;
     border-left: 0px solid #444 !important;
     border-right: 0px solid #444 !important;
+    margin-bottom: 4px;
+    border-radius: 10px;
 }
 
 .list-unit .list-status-title .text {
